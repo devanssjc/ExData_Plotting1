@@ -1,12 +1,12 @@
 ## This section added by Doug Evans
 
-## This repository contains the 4 R code files as outlined in the
-## assignment below, for of the Exploratory Data Analysis Course
-## To run the code, the data file should be in the R working directory
-## the png files that are created by each Plotn.R file is saved to the
-## working directory. Since the dat file is huge, it is not included
-## in this repository, but can be downloaded at the URL given below.
-## The data file name should be "household_power_consumption.txt"
+This repository contains the 4 R code files as outlined in the
+assignment below, for of the Exploratory Data Analysis Course
+To run the code, the data file should be in the R working directory
+The png files that are created by each Plotn.R file is saved to the
+working directory. Since the dat file is huge, it is not included
+in this repository, but can be downloaded at the URL given below.
+The data file name should be "household_power_consumption.txt"
 
 -----------------------------------------------
 
